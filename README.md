@@ -21,10 +21,12 @@ By the end of this notebook, you should be able to:
 
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
--  Data Science with Python Book by Data Science from Scratch (Joel Grus), O`REILLY Core Function, Second Edition
+- [Exploring Different Types of Charts and Their Ideal Use Cases](https://medium.com/@b.kiran1999kumar/exploring-different-types-of-charts-and-their-ideal-use-cases-3091d23e1d45)
 
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
+## License
 
+This project is licensed under the MIT License.
